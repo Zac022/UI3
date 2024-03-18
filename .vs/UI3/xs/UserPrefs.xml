@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DB347843-C351-752A-FEB1-7A4C428B52D4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Toggle.cs">
+    <Files>
+      <File FileName="Assets/Toggle.cs" Line="3" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UI3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Toggle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eff893e4-ba60-4e7d-8030-4e882ed1b252" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
